@@ -10,8 +10,8 @@
 
 ## 💻 Project
 
-Foi desenvolvido o front-end de uma aplicação de um restaurante, o GoRestaurant, utilizando uma fake API, criada usando o JSON Server,
-para simular os dados a serem consumidos e exibir os pratos de comida existentes e permitir a criação de novos pratos e remoção e atualização dos já cadastrados.
+Foi desenvolvido o front-end de uma aplicação de um restaurante, o GoRestaurant. Utilizei uma fake API criada usando JSON Server. Dessa forma, foi possível
+simular os dados a serem consumidos, exibir os pratos de comida existentes, permitir a criação de novos pratos, remoção e atualização dos pratos já cadastrados.
 
 ### Funcionalidades
 - Listar os pratos de comida da fake API;
